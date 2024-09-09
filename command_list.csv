@@ -1,0 +1,160 @@
+    1  cd Desktop
+    2  ls -l
+    3  ls -l
+    4  cat /dev/random
+    5  ls -l
+    6  cd Downloads
+    7  cat /dev/random > random.txt
+    8  ls -l
+    9  ls -l
+   10  ls -l
+   11  ls -l
+   12  ls -l
+   13  du -sch *
+   14  du -sch *
+   15  du -sch *
+   16  du -sch *
+   17  du -sch *
+   18  du -sch *
+   19  du -sch *
+   20  du -sch *
+   21  du -sch *
+   22  du -sch *
+   23  du -sch *
+   24  du -sch *
+   25  du -sch *
+   26  du -sch *
+   27  du -sch *
+   28  du -sch *
+   29  du -sch *
+   30  du -sch *
+   31  du -sch *
+   32  du -sch *
+   33  du -sch *
+   34  du -sch *
+   35  du -sch *
+   36  du -sch *
+   37  du -sch *
+   38  du -sch *
+   39  du -sch *
+   40  du -sch *
+   41  du -sch *
+   42  du -sch *
+   43  du -sch *
+   44  du -sch *
+   45  du -sch *
+   46  du -sch *
+   47  du -sch *
+   48  du -sch *
+   49  du -sch *
+   50  du -sch *
+   51  du -sch *
+   52  du -sch *
+   53  du -sch *
+   54  du -sch *
+   55  du -sch *
+   56  du -sch *
+   57  du -sch *
+   58  du -sch *
+   59  cat /dev/random > random2.txt
+   60  rm random*
+   61  history .c
+   62  history -c
+   63  sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app
+   64  sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/UsbCapitan/ --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app/ --nointeraction
+   65  sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/UsbCapitan/ --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app/ --nointeraction
+   66  md5 
+   67  md5 /Users/apple/Downloads/scribus-1-5-6-1.dmg 
+   68  md5 /Users/apple/Downloads/VirtualBox-6.1.18-142142-OSX.dmg 
+   69  VBoxManage startvm imyaVM
+   70  dmesg-t
+   71  dmes
+   72  /Volumes/VirtualBox/VirtualBox_Uninstall.tool ; exit;
+   73  sudo su
+   74  md5
+   75  ssh tmp@192.168.0.137
+   76  ssh tmp@192.168.0.137
+   77  ssh tmp@192.168.0.137
+   78  ssh tmp@192.168.0.137
+   79  ssh tmp@192.168.0.137
+   80  exit
+   81  curl
+   82  curl -vvv localhost:80
+   83  curl -vvv 192.168.0.137:80
+   84  curl -vvv 192.168.0.137:8080
+   85  curl -vvv 192.168.0.137:8080/owncloud
+   86  curl -vvv 192.168.0.137:8080/owncloud
+   87  curl -vvv 192.168.0.137:8080/owncloud
+   88  curl -vvv 192.168.0.137:8080/owncloud
+   89  curl -vvv 192.168.0.137:8080
+   90  curl -vvv http://192.168.0.137:8080
+   91  curl -vvv http://192.168.0.137:8080
+   92  curl -vvv 192.168.0.1:80
+   93  curl -vvv 192.168.0.1:80
+   94  curl -vvv 192.168.0.1:8080
+   95  nc 192.168.0.1:8080
+   96  nc 192.168.0.1 -p 8080
+   97  nc 192.168.0.1 -p 8080
+   98  nc 192.168.0.1 -p 80
+   99  nc 192.168.0.1 80
+  100  nc 192.168.0.1 8080
+  101  nc -l localhost 8081
+  102  ip a
+  103  ifconfig
+  104  ifconfig | grep inet" "
+  105  tmux
+  106  htop
+  107  nc --help
+  108  man nc
+  109  man nc | less
+  110  ifconfig | grep inet" "
+  111  nc -l localhost 8081
+  112  nc -l localhost 8081
+  113  /Applications/Garmin\ Express.app/Contents/MacOS/Garmin\ Express ; exit;
+  114  git --version
+  115  -c && rm ~/.bash_history
+  116  man ls
+  117  ls
+  118  ls
+  119  cd HW_10_Git
+  120  ls
+  121  git config --global user.name "SergiyGoIT"
+  122  git config --global user.email zeolith.bus_0e@icloud.com
+  123  git clone https://github.com/SergiyGoIT/HW_10.git
+  124  git status
+  125  cd hw_10
+  126  ls
+  127  git status
+  128  touch text_ignore.txt
+  129  git add text_ignore.txt
+  130  git status
+  131  touch text_ignore.txt
+  132  git add text_ignore.txt
+  133  git commit -m "text_ignore.txt file added"
+  134  git status
+  135  touch main_test.txt
+  136  git add main_test.txt
+  137  git commit -m "main_test.txt file added"
+  138  git status
+  139   git checkout -b develop 
+  140  git branch
+  141  touch develop_test.txt
+  142  git add
+  143  nano develop_test.txt
+  144  git status
+  145  git add.
+  146  git add
+  147  git add develop_test.txt
+  148  git commit -m "develop_test.txt file added"
+  149  git status
+  150  nano develop_test.txt
+  151  git status
+  152  git add develop_test.txt
+  153  git commit -m "develop_test.txt changed"
+  154  git status
+  155  git checkout main
+  156  git merge develop
+  157  git log
+  158  git push
+  159  git push
+  160  git push
